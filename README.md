@@ -1,6 +1,6 @@
 # Tic Tac Toe Game
 
-
+<img width="960" alt="image" src="https://github.com/sarveshy200/Tic-Tac-Toe/assets/105293807/3ce0ab22-238b-462e-866f-dedc2a20d946">
 
 This is a simple web-based Tic Tac Toe game created by Sarveh Kumar Yadav. You can play the classic game of Tic Tac Toe with a friend or against yourself.
 
